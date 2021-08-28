@@ -1,0 +1,34 @@
+getAllFilmes
+getByIdFilme
+postFilme
+putFilme
+deleteFilme
+
+localhost:3000/filmes
+
+APIRest - traz possibilidade de criar servidores back ende que sirvam front de forma simples, limpa, estruturada.
+constituida/ obter de rotas, recebem json e enviam json.
+
+consumo de api - o front consumi api.
+
+requisição atraves de um json. Assim não precisa recarregar toooda a página. A fluidez melhora
+
+thundeclide - é o front para simular
+
+RESUMO DE MSG PADRAO DA PORTA HTTP
+Respostas de informação (100-199),
+Respostas de sucesso (200-299),
+Redirecionamentos (300-399),
+Erros do cliente (400-499),
+Erros do servidor (500-599)
+
+
+JSON.stringify: transformar texto ou qualquer coisa em json.
+
+Objetos recebem qualquer tipo de dado, inclusive uma função.
+
+A unica forma de fazer um find é com função de callback.
+
+
+
+
